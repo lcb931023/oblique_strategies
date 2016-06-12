@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  font-family: monospace;
+  font-size: 2em;
+}
+.holder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+#strategy {
+  text-align: center;
+  word-wrap: break-word;
+  text-transform: uppercase;
+}
