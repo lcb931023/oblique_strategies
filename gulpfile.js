@@ -5,7 +5,7 @@
 var gulp = require('gulp');
 var $ = require('gulp-load-plugins')();
 var del = require('del');
-// var ghPages = require('gh-pages');
+var ghPages = require('gh-pages');
 var packageJson = require('./package.json');
 var path = require('path');
 var runSequence = require('run-sequence');
