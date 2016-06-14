@@ -1,0 +1,10 @@
+CACHE MANIFEST
+
+CACHE:
+js/main.js
+js/strategies.js
+main.css
+images/icon_144.png
+node_modules/shake.js/shake.js
+manifest.json
+index.html

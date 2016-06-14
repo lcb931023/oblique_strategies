@@ -1,0 +1,17 @@
+{
+  "lang": "en",
+  "name": "Oblique Strategies",
+  "short_name": "OS",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "images/icon_144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
