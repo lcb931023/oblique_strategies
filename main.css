@@ -1,7 +1,9 @@
 html, body {
   height: 100%;
-  font-family: monospace;
-  font-size: 2em;
+  font-family: 'Helveticaneue', 'Helvetica', 'Arial', sans-serif;
+  font-size: 1.2em;
+  font-style: oblique;
+  font-weight: bold;
 }
 .holder {
   display: flex;
@@ -12,5 +14,4 @@ html, body {
 #strategy {
   text-align: center;
   word-wrap: break-word;
-  text-transform: uppercase;
 }

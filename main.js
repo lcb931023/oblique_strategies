@@ -18,7 +18,7 @@ strategyEl.change = function(){
   changing = true;
   var newStrategy = strategies[ Math.floor( Math.random() * strategies.length ) ];
   // The longer the strategy is, the quicker we'll want transition to finish
-  limit = Math.ceil(80/newStrategy.length);
+  limit = Math.ceil(20/newStrategy.length);
   
   this.textContent = newStrategy;
   // Replace each text character with rando
