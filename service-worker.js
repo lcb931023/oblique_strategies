@@ -29,7 +29,7 @@
 
 
 /* eslint-disable quotes, comma-spacing */
-var PrecacheConfig = [["images/icon_144.png","ce68a163dff1a4ae84c182943b7134f4"],["index.html","c1b4c03f0c719cf5ee7ba0b7e3250a2f"],["js/main.js","0dc63dbfd0551ddc94da60b32a25fd28"],["js/service-worker-registration.js","c1ee5aec388e1ed07d6d290693b72547"],["js/strategies.js","f1d554eb78b78e47e3c9a7bd1d7d7c29"],["main.css","41fda954af61d2233305b4dfdd3bfd80"],["main.js","0dc63dbfd0551ddc94da60b32a25fd28"],["node_modules/shake.js/index.html","bef3d8d7385b098ce6b80f938f4a3098"],["node_modules/shake.js/shake.js","d533b699f19754333afbc49ddbe8b07b"],["strategies.js","f1d554eb78b78e47e3c9a7bd1d7d7c29"]];
+var PrecacheConfig = [["images/icon_144.png","ce68a163dff1a4ae84c182943b7134f4"],["index.html","c1b4c03f0c719cf5ee7ba0b7e3250a2f"],["js/main.js","0dc63dbfd0551ddc94da60b32a25fd28"],["js/service-worker-registration.js","c1ee5aec388e1ed07d6d290693b72547"],["js/strategies.js","fa898b84f1831c76068e6d9136cdbc05"],["main.css","41fda954af61d2233305b4dfdd3bfd80"],["main.js","0dc63dbfd0551ddc94da60b32a25fd28"],["node_modules/shake.js/index.html","bef3d8d7385b098ce6b80f938f4a3098"],["node_modules/shake.js/shake.js","d533b699f19754333afbc49ddbe8b07b"],["strategies.js","f1d554eb78b78e47e3c9a7bd1d7d7c29"]];
 /* eslint-enable quotes, comma-spacing */
 var CacheNamePrefix = 'sw-precache-v1-oblique_strategies-' + (self.registration ? self.registration.scope : '') + '-';
 

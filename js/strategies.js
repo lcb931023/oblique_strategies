@@ -88,7 +88,7 @@ var strategies = [
   "Take away the important parts",
   "Tape your mouth",
   "The inconsistency principle",
-  "The tape is now the music'",
+  "The tape is now the music",
   "Think of the radio",
   "Tidy up",
   "Trust in the you of now",
