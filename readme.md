@@ -4,7 +4,7 @@ A collection of challenging constraint to break creative blocks.
 
 # Usage
 
-Open when encountered creative blocks. Take these one at a time.
+Open when encountered creative blocks. Take these one at a time and call me in the morning.
 
 # Design
 
